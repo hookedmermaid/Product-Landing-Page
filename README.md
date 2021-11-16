@@ -1,4 +1,4 @@
-#Product Landing Page
+# Product Landing Page
 This is a product landing page build as part of the freeCodeCamp Responsive Web Design Project curriculum.
 
 ## Demo and Screenshot
