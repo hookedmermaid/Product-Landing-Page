@@ -7,7 +7,7 @@ For a demo, please check out https://codepen.io/hookedmermaid/pen/LYReaRK
 *screenshots to be inserted later*
 
 ## Tech Stack
-- HTML%
+- HTML5
 - CSS
 - CSS Grid
 
